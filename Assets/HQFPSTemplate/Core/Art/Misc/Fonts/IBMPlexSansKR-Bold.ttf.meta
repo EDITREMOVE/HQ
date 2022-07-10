@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a7e48edcd71935e499596e609698dc90
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - IBM Plex Sans KR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1749bf4a5401eda49aaaeca2be1e8fd1, type: 3}
+  - {fileID: 12800000, guid: 32f57ade5bf0fff43baa3681282b70e5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
